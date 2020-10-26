@@ -1,0 +1,193 @@
+header{
+	height:65px;
+}
+
+header a{
+	text-decoration:none;
+	color:black;	
+}
+
+.head-container a:hover {
+  color: skyblue;
+  font-size: 2em;/*ï∂éöÉTÉCÉY2î{*/
+  font-weight: bold;
+}
+
+
+.head-container{
+	margin:0 220px 0 185px;
+
+}
+
+header h2{
+	line-height:105px;
+	display:inline;
+	
+}
+
+header ul{
+	float:right;
+	line-height:70px;
+}
+
+header li{
+	display:inline;
+	padding-right:30px;
+	font-weight:bold;
+	font-size:15px;
+}
+
+.top{
+	background-color:#99FFFF;
+	height:400px;
+	width:96%;
+	margin:20px 30px 0 30px;
+}
+
+.top-container{
+
+}
+
+.top h1,h4{
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+}
+
+.top h1{
+	padding-top:110px;
+	font-size:40px;
+}
+
+.daytra{
+	height:480px;
+}
+
+.daytra-container{
+	display:flex;
+	height:100%;
+}
+
+.daytra h1{
+	text-align:center;
+	padding:30px 0;
+	font-weight:900;
+	font-size:25px;
+}
+
+.daytra-img{
+	width:50%;
+	position:relative;
+}
+
+.daytra-img img{
+	width:350px;
+	height:250px;
+	position:absolute;
+	top:30px;
+	left:230px;
+	z-index:2;
+
+}
+
+.daytra-back{
+	width:100%;
+	position:absolute;
+	top:-20px;
+	left:70px;
+}
+
+.daytra-back img{
+	width:350px;
+	height:250px;
+	z-index:1;
+}
+
+.daytra-description{
+	width:36%;
+	height:100%;
+	margin:0 25px;
+}
+
+.cource{
+	width:80%;
+	height:230px;
+	margin:0 auto;
+	position:relative;
+}
+
+
+.cource h1{
+	text-align:center;
+	font-weight:900;
+	font-size:25px;
+}
+
+.cource-level{
+	position:absolute;
+	display:flex;
+	width:90%;
+	left:80px;
+}
+
+.cource-icon{
+	width:33.3%;
+}
+
+.cource-icon img{
+	width:270px;
+	height:130px;
+	display:block;
+}
+
+.contact{
+	height:370px;
+	width:75%;
+	margin:50px auto 0 auto;
+	text-align:center;
+}
+
+.contact h1{
+	font-weight:900;
+	font-size:28px;
+	margin-bottom:40px;
+}
+
+.contact p{
+	font-size:15px;
+}
+
+.contact-mail{
+	width:560px;
+	height:45px;
+	border-radius:100px;
+	border:2px solid #999999;
+	padding-left:10px;
+	border-color:#CCCCCC;
+	font-weight:900;
+}
+
+.contact-button{
+	margin-top:10px;
+	width:370px;
+	height:75px;
+	font-size:24px;
+	color:white;
+	background-color:#FF4F50;
+	font-weight:20px;
+	border: none;
+	border-radius:5px;
+}
+
+footer{
+	width:73%;
+	margin:0 auto;
+	border-top: 1px solid rgba(0,0,0,0.2); 
+		
+}
+
+footer p{
+	text-align:right;
+	font-size:12px;
+	height:70px;
+}
