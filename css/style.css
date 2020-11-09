@@ -71,7 +71,7 @@ header li {
 @media(max-width:1024px){
 	.container{
 		width:100%;
-	}	
+	}
 }
 
 .title{
@@ -91,7 +91,7 @@ header li {
 	.daytra-container{
 		display:block;
 		height:auto;
-	}	
+	}
 }
 
 .daytra-left{
@@ -108,7 +108,7 @@ header li {
 		height:40vw;
 		background-position:center;
 		margin-bottom:20px;
-	}	
+	}
 }
 
 .daytra-right{
@@ -123,7 +123,7 @@ header li {
 		width:80%;
 		text-align:center;
 		margin:0 auto;
-	}	
+	}
 }
 
 
@@ -131,7 +131,7 @@ header li {
 	.daytra-right{
 		width:100%;
 		font-size:17px;
-	}	
+	}
 }
 
 .cource-container{
@@ -143,14 +143,14 @@ header li {
 @media(max-width:1024px){
 	.cource-container{
 		flex-wrap:wrap;
-	}	
+	}
 }
 
 @media(max-width:600px){
 	.cource-container{
 		display:block;
 		font-size:15px
-	}	
+	}
 }
 
 .cource-icon{
@@ -164,13 +164,13 @@ header li {
 	.cource-icon{
 		width:48%;
 		margin-bottom:20px;
-	}	
+	}
 }
 
 @media(max-width:600px){
 	.cource-icon{
 		width:100%;
-	}	
+	}
 }
 
 
@@ -205,7 +205,7 @@ header li {
 	.contact-mail{
 		width:100%;
 		margin-bottom:20px;
-	}	
+	}
 }
 
 .contact-button {
@@ -236,12 +236,12 @@ footer p {
 	footer{
 		width:100%;
 		text-align: center;
-	}	
+	}
 }
 
 
 @media(max-width:600px){
 	footer p{
 		padding:30px 0 0 0;
-	}	
+	}
 }
